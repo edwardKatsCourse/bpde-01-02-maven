@@ -1,0 +1,4 @@
+{
+	"name":"Java Script Object Notation (JSON)", 
+	"address": { "innerObject":"data" }
+}

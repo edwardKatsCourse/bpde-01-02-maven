@@ -1,0 +1,12 @@
+<tags>
+	<innerTag>
+		<innerInnerTag id="tagId">
+			eXtensible Markup Language (XML)
+			
+			Hyper Text Markup Language (HTML)
+			
+			Hyper Text Transfer Protocol (HTTP)
+		</innerInnerTag>
+		<additionalInfo></additionalInfo>
+	</innerTag>
+</tag>
